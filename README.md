@@ -1,2 +1,0 @@
-# sample
-my first program
